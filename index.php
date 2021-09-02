@@ -61,7 +61,7 @@
             Héctor Mauricio Martínez Díaz<br>
             Servidores y servicios web / 51220<br>
             Ingeniería de Sistemas
-            <a href="https://github.com/maoworshipper/agenda.git" target="_blank">Ver repositorio en GitHub</a></h3>
+            <a href="https://github.com/maoworshipper/agenda" target="_blank">Ver repositorio en GitHub</a></h3>
         </div>
     </main>
     <script src="./assets/js/main.js"></script>
